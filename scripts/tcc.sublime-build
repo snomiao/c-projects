@@ -1,0 +1,4 @@
+{
+    "cmd": ["./tcc.exe", "$file"],
+    "selector": "source.c",
+}
